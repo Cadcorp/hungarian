@@ -12,6 +12,7 @@
 #ifndef HUNGARIAN_H
 #define HUNGARIAN_H
 
+#include <iostream>
 #include <vector>
 
 
